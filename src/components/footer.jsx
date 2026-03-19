@@ -49,7 +49,7 @@ function Footer() {
                 </Link>
               </li>
               <li>
-                <Link to="/legal" className="footer-link">
+                <Link to="/mentionslegales" className="footer-link">
                   Mentions Légales
                 </Link>
               </li>

@@ -4,7 +4,7 @@ import Home from "./pages/home";
 import Services from "./pages/services";
 import Portfolio from "./pages/portfolio";
 import Contact from "./pages/contact";
-import MentionsLegales from "./pages/legal";
+import MentionsLegales from "./pages/mentionslegales";
 
 function App() {
   return (

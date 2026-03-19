@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import GitHubModal from "../components/GitHubModal";
+import GitHubModal from "../components/githubmodal";
 import heroBg from "../assets/images/hero-bg.jpg";
 import aboutImg from "../assets/images/john-doe-about.jpg";
 

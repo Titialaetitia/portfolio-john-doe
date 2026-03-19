@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import heroBg from "../assets/images/hero-bg.jpg";
+import HeroBg from "../assets/images/hero-bg.jpg";
 
 function GitHubModal() {
   const [profile, setProfile] = useState(null);
@@ -13,7 +13,7 @@ function GitHubModal() {
   if (!profile) return null;
 
   return (
-    <div className="modal fade" id="githubModal">
+    <div className="modal fade" id="githubmodal">
       <div className="modal-dialog">
         <div className="modal-content">
           <div className="modal-header">

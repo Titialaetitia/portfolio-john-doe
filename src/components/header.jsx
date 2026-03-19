@@ -40,7 +40,7 @@ function Header() {
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/mentions-legales">
+              <NavLink className="nav-link" to="/legal">
                 Mentions Légales
               </NavLink>
             </li>

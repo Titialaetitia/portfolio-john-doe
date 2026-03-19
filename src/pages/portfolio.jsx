@@ -1,4 +1,4 @@
-import ProjectCard from "../components/ProjectCard";
+import ProjectCard from "../components/projectcard";
 import freshFood from "../assets/images/fresh-food.jpg";
 import sushi from "../assets/images/restaurant-japonais.jpg";
 import spa from "../assets/images/espace-bien-etre.jpg";
